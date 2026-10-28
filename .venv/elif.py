@@ -1,5 +1,0 @@
-#git init
-#git add .
-#git commit -m "python basics"
-#git remote add origin https://gitub.com/Evalynm/python-basics.git
-#git push -u origin master
